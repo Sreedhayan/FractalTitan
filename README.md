@@ -26,13 +26,51 @@ quantum coral
 
 hyper-organic machinery
 
-💀 Warning
+⚠️ EXTREME WARNING — READ BEFORE USING ⚠️
 
-This project will melt your CPU.
-This project will drain your RAM.
-This project will break your sanity trying to render even frame 1.
+Hyperfractrix is intentionally engineered to generate infinite, self-growing, ultra-complex 3D structures using heavy recursion, procedural geometry, and shader-like mathematical pipelines.
 
-Hyperfractrix is intentionally designed to be beyond runnable, beyond optimized, beyond reasonable.
+Running this software WILL:
+
+Consume unbounded CPU/GPU cycles
+
+Allocate extreme memory amounts
+
+Produce runaway compute loops
+
+Potentially freeze your OS
+
+Overheat hardware
+
+Crash your GPU drivers
+
+Cause unexpected performance degradation
+
+🚫BY USING THIS SOFTWARE, YOU AGREE THAT:
+
+You run it entirely at your own risk.
+
+The authors, contributors, or maintainers are NOT responsible for:
+
+Hardware damage
+
+Overheating
+
+GPU/CPU degradation
+
+System crashes
+
+Data loss
+
+Electricity usage
+
+Any direct or indirect consequences
+
+This project is experimental, unstable, and intentionally computationally extreme.
+
+❗ You acknowledge that this software may behave in unpredictable, resource-consuming, and potentially system-breaking ways.
+🔥 IF YOUR PC STARTS SOUNDING LIKE A JET ENGINE — THAT IS EXPECTED.
+💀 WE ARE NOT RESPONSIBLE FOR YOUR HARDWARE. USE AT YOUR OWN RISK.
 
 🧠 Why?
 

@@ -1,4 +1,4 @@
-# FractalTitan
+# 🌌 Hyperfractrix
 🌌 Hyperfractrix — The Impossible Geometry Engine
 
 Hyperfractrix is a compute-breaking, reality-distorting 3D fractal generator designed to create infinite, evolving, self-mutating structures that no GPU should logically survive.
